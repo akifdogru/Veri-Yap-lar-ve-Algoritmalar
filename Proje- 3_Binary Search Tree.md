@@ -1,10 +1,10 @@
 # Binary Search Tree
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-```
-Binary search tree, her düğümün solundaki koldan ulaşılabilecek bütün verilerin düğümün değerinden küçük, sağ kolundan ulaşılabilecek bütün verilerin değerinin o düğümün değerinden büyük olmasını şart koşar.
 
-```
+##### Binary search tree, her düğümün solundaki koldan ulaşılabilecek bütün verilerin düğümün değerinden küçük, sağ kolundan ulaşılabilecek bütün verilerin değerinin o düğümün değerinden büyük olmasını şart koşar.
+
+
 
 **Root:** Dizinin ilk elemanı
 
